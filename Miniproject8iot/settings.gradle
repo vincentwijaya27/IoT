@@ -1,0 +1,2 @@
+rootProject.name='Miniproject8-iot'
+include ':app'
